@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vaje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb65cfef11288deb8fdec0252743663768010fb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11951a9ca326b52f7036b6b29f7eeeac64cca76f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vaje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vaje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

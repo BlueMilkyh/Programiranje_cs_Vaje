@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\dummy\\Projects\\Programiranje\\Programiranje_cs\\Vaje\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D1ABEF20-169D-48BB-A437-0E599EBD326B}|Vaje.csproj|c:\\dummy\\projects\\programiranje\\programiranje_cs\\vaje\\ifstavki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1ABEF20-169D-48BB-A437-0E599EBD326B}|Vaje.csproj|solutionrelative:ifstavki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1ABEF20-169D-48BB-A437-0E599EBD326B}|Vaje.csproj|c:\\dummy\\projects\\programiranje\\programiranje_cs\\vaje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1ABEF20-169D-48BB-A437-0E599EBD326B}|Vaje.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IfStavki.cs",
+              "DocumentMoniker": "C:\\dummy\\Projects\\Programiranje\\Programiranje_cs\\Vaje\\IfStavki.cs",
+              "RelativeDocumentMoniker": "IfStavki.cs",
+              "ToolTip": "C:\\dummy\\Projects\\Programiranje\\Programiranje_cs\\Vaje\\IfStavki.cs",
+              "RelativeToolTip": "IfStavki.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:00:55.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dummy\\Projects\\Programiranje\\Programiranje_cs\\Vaje\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\dummy\\Projects\\Programiranje\\Programiranje_cs\\Vaje\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T10:40:18.802Z",
               "EditorCaption": ""
