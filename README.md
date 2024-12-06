@@ -1,1 +1,1 @@
-This is a Dummy Repo, used for training my C# Skills :)
+This is a dummy repo, used for training my C# Skills :)
