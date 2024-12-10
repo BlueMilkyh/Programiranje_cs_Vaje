@@ -1,0 +1,15 @@
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\bin\Debug\net8.0\Vaje.exe
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\bin\Debug\net8.0\Vaje.deps.json
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\bin\Debug\net8.0\Vaje.runtimeconfig.json
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\bin\Debug\net8.0\Vaje.dll
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\bin\Debug\net8.0\Vaje.pdb
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\obj\Debug\net8.0\Vaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\obj\Debug\net8.0\Vaje.AssemblyInfoInputs.cache
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\obj\Debug\net8.0\Vaje.AssemblyInfo.cs
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\obj\Debug\net8.0\Vaje.csproj.CoreCompileInputs.cache
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\obj\Debug\net8.0\Vaje.sourcelink.json
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\obj\Debug\net8.0\Vaje.dll
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\obj\Debug\net8.0\refint\Vaje.dll
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\obj\Debug\net8.0\Vaje.pdb
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\obj\Debug\net8.0\Vaje.genruntimeconfig.cache
+C:\dummy\Projects\Programiranje\Programiranje_cs\Vaje\obj\Debug\net8.0\ref\Vaje.dll

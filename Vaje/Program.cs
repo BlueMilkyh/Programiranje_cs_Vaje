@@ -1,10 +1,20 @@
 ﻿namespace Vaje
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Vpisi Nalogo");
+            int test = int.Parse(Console.ReadLine());
+
+            switch (test)
+            {
+                case 121:
+                IfStavki.Naloga121(5, "if");
+                    break;
+            }
+                
+            
         }
     }
 }

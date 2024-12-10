@@ -2,13 +2,11 @@
 
 namespace Vaje
 {
-    internal class IfStavki
+    public class IfStavki
     {
-   
-        static void Main(string[] args)
+        public enum Naloga
         {
-            
-            Console.WriteLine("Hello, World!");
+            Naloga121 = 1,
         }
 
         public static void Naloga121(int dan,string verzija)
